@@ -1,0 +1,20 @@
+header{
+    background: #000;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 100px;
+}
+
+.logo{
+    color: #fff;
+}
+
+ul{
+    display: flex;
+}
+
+ul a{
+    color: #fff;
+    font-size: 20px;
+    margin: 0 10px;
+}
